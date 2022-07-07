@@ -1,19 +1,14 @@
-# Ransomeware
-This is for educational purpose only.
-This is Ransomware made by me using python.
-This Programs will give an overview that how Ransom works and you can also read Countermeasures below according to me.
+This software is for educational purposes only. It is 'Ransomware' made by me using python. This Program will give an overview of how Ransomware works, and you can also read the countermeasures provided below.
 
-A ransom is malicious piece of software which encrypts(locks) all the files of the system with an unknown extension . Attacker may demand to pay the ransom using Bitcoin or any other mode of transaction.
-Though after payment there is less chance that attacker may provide the decryption key to unlock those files.
-If victim haves/receives the key will able to decrypt and recover those infected files.
+Ransomware is a malicious piece of software that encrypts(locks) all the files on the system with an unknown extension. The attacker may demand to pay the ransom using Bitcoin or any other mode of transaction. Although after the payment, there are fewer chances that an attacker may provide the decryption key to unlock those files. 
+If the victim receives the decryption key he or she will be able to decrypt and recover the infected files.
 
-Countermeasures :
-a) Never visit unwanted websites , especially unsecured protocols which uses 'http'
-b) Do not download any files like executable files or .msi (installers)
-c)Do not plug in any accidentally received usb flash drives from unknown sources.
+Countermeasures: 
+a) Never visit unwanted websites, especially unsecured protocols which use 'HTTP'. 
+b) Do not download any files like executable files or .msi (installers) 
+c)Do not plug in any accidentally received USB flash drives from unknown sources.
 
-If the system is affected by Ransomware attack :
-a) Do not pay ransom , because there is no guarantee that attacker will share decryption key.
-b) Try to upload the infected files on https://lnkd.in/dS2_AFpD
-and may get your original files back .
-c) Format the system and install fresh Operating System .
+If the system is affected by a Ransomware attack: 
+a) Do not pay the ransom because there is no guarantee that the attacker will share the decryption key. 
+b) Try to upload the infected files on https://lnkd.in/dS2_AFpD and may get your original files back.
+c) Format the system and install a fresh Operating System.
